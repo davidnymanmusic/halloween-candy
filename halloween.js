@@ -1,7 +1,5 @@
 var candy = ["Reeses", "Snickers", "Milkyway Midnight"]
 var costumes = ["Spider-man", "Ghost", "Skeleton"]
-var candy = ["Reeses", "Snickers", "Milkyway Midnight"]
-var costumes = ["Spider-man", "Ghost", "Skeleton"]
 var history = ["579  mkdir getGit",
                "580  cd getGit",
                "581  git init",
